@@ -217,6 +217,8 @@ public class mainSwitchCase {
 
                 BILLPAY(Eunit);
                 break;
+            case 21:
+                break;
                 default:
                     System.out.println("Please! Enter Valid Question Number");
         }
